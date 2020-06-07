@@ -1,5 +1,5 @@
-# AGAPECert-regulator
-AGAPECert Regulator App
+# AGAPECert-Validator
+AGAPECert Validator App
 
 
 <p align="center">
